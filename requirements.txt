@@ -1,5 +1,6 @@
 user-agent
 flagz
+getuseragent
 pycountry
 openai
 Faker
